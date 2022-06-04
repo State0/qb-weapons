@@ -140,18 +140,18 @@ Config.DurabilityMultiplier = {
 
 Config.WeaponRepairPoints = {
     [1] = {
-        coords = vector3(964.02, -1267.41, 34.97),
+        coords = vector3(22.64, -1109.82, 29.8),
         IsRepairing = false,
         RepairingData = {},
     }
 }
 
 Config.WeaponRepairCosts = {
-    ["pistol"] = 1000,
-    ["smg"] = 3000,
-    ["mg"] = 4000,
-    ["rifle"] = 5000,
-    ["sniper"] = 7000,
+    ["pistol"] = 5000,
+    ["smg"] = 50000,
+    -- ["mg"] = 4000,
+    -- ["rifle"] = 5000,
+    -- ["sniper"] = 7000,
 }
 
 WeaponAttachments = {
